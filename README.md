@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vijay Gosai 👋
 
-<!--
-**vijayg92/vijayg92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Staff Engineer - Infrastructure | Platform Engineering | Cloud Architecture | SRE | DevOps**
 
-Here are some ideas to get you started:
+I'm a **Senior Computer Scientist at Adobe** with 12+ years of experience building scalable cloud infrastructure, developer platforms, and reliable distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving complex infrastructure challenges through **cloud-native engineering, automation, and AI-driven operations**.
+
+### 🚀 A Few Highlights
+
+- ⚡ Architected infrastructure supporting **55B+ requests** during peak traffic.
+- ☁️ Led a **zero-downtime migration of 5PB+ production data** to AWS.
+- 💰 Delivered **~$1M in annual cloud savings** through infrastructure modernization.
+
+### 🛠️ Tech Stack
+
+- **Cloud & Platforms:** AWS · Kubernetes · Docker · OpenShift · Linux
+- **Engineering & Automation:** Go · Python · Terraform · Terragrunt · Jenkins · SaltStack
+- **Observability:** Prometheus · Cortex · Grafana · ELK · Splunk
+- **AI & AIOps:** LangGraph · LangChain · Agentic AI
+
+### 🔭 What I'm Exploring
+
+- Internal Developer Platforms & Platform Engineering
+- Agentic AIOps & Intelligent Infrastructure Automation
+- Cloud Architecture, Reliability & Observability
+
+### 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/vgosai/) · [Email](mailto:vijaysingh392@gmail.com)
